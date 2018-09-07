@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_generic_field_1" label="Generic field 1" language="en" table="x_219987_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_generic_field_1</element>
+            <help/>
+            <hint/>
+            <label>Generic field 1</label>
+            <language>en</language>
+            <name>x_219987_needit_needit</name>
+            <plural>Generic field 1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-07 08:58:01</sys_created_on>
+            <sys_id>af389413db502300d98e4870399619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Generic field 1</sys_name>
+            <sys_package display_value="NeedIt" source="x_219987_needit">ee11fa67db231300d98e4870399619d6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">ee11fa67db231300d98e4870399619d6</sys_scope>
+            <sys_update_name>sys_documentation_x_219987_needit_needit_u_generic_field_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-07 08:58:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
